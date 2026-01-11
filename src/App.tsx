@@ -1,5 +1,11 @@
+import CoordinateTemplate from "./CoordinateTemplate";
+
 function App() {
-  return <></>;
+  return (
+    <div style={{ width: "80vw", height: "80vh" }}>
+      <CoordinateTemplate />
+    </div>
+  );
 }
 
 export default App;
