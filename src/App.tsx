@@ -1,4 +1,4 @@
-import CoordinateTemplate from "./CoordinateTemplate";
+import CoordinateTemplate from "./CoordinateDemo/CoordinateTemplate";
 
 function App() {
   return (
